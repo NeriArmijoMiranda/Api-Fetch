@@ -1,0 +1,22 @@
+body{
+    background-color: cornflowerblue;
+  }
+  table thead {
+        background:#302b63;
+        color:white;
+    }
+    #user-table{
+        width: 100%;
+        height: 100%;
+        margin-top: 30px;
+    }
+    #users{
+        width: 100%;
+    }
+    #data{
+        width: 100%;
+    }
+    .container {
+        max-width: 1500px;
+        max-height: 3000px;
+      }
